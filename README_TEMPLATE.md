@@ -26,3 +26,20 @@ git clone https://github.com/TownesDev/<repo-name>.git
 cd <repo-name>
 npm install
 npm run dev
+```
+
+🧱 Features
+
+ - Core feature 1
+ - Core feature 2
+ - Optional integrations
+
+---
+
+📜 License
+
+This project is licensed under the [MIT License](../LICENSE.md)
+
+---
+
+> TownesDev — Code. Systems. Foundations.
