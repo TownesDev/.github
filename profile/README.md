@@ -52,7 +52,7 @@ Each project is built as part of a greater ecosystem — structured, maintainabl
 <p align="center">
   <a href="https://donovantownes.dev">🌎 Website</a> •
   <a href="https://github.com/donovan-townes">💻 Personal GitHub</a> •
-  <a href="mailto:support@townes.dev">📧 Email</a>
+  <a href="mailto:donovan@townes.dev">📧 Email</a>
 </p>
 
 ---
